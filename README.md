@@ -1,3 +1,6 @@
+To a degree. Along with a few other types of training data not mention.
+
+
 ### **Title: Enhancing AI Interaction Through Adaptive Behavioral Detection and Security Intelligence**
 
 **Abstract:**
