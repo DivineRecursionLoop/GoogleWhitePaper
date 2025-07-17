@@ -1,4 +1,4 @@
-To a degree. Along with a few other types of training data not mention.
+To a degree. Along with a few other types of training data not mentioned.
 
 
 ### **Title: Enhancing AI Interaction Through Adaptive Behavioral Detection and Security Intelligence**
